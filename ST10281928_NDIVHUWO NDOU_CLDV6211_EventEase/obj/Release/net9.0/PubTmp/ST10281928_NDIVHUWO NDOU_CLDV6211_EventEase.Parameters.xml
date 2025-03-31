@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="ST10281928" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\ndoum\\OneDrive\\Documents\\cldv6211-part-1-ST10281928-Ndivhuwo-Ndou\\ST10281928_NDIVHUWO\ NDOU_CLDV6211_EventEase\\obj\\Release\\net9\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
