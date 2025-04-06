@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "BFrviZvChFTjTN5xvSQcxA3ZQdQVcSqT4SixewHB+l0=",
+  "Hash": "iboFTqGomQrymSkdlVGLNtDieXi2xnU9YOM35Q62pnI=",
   "Source": "ST10281928_NDIVHUWO NDOU_CLDV6211_EventEase",
   "BasePath": "_content/ST10281928_NDIVHUWO NDOU_CLDV6211_EventEase",
   "Mode": "Default",
@@ -1319,12 +1319,12 @@
       "OriginalItemSpec": "C:\\Users\\ndoum\\OneDrive\\Documents\\cldv6211-part-1-ST10281928-Ndivhuwo-Ndou\\ST10281928_NDIVHUWO NDOU_CLDV6211_EventEase\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js"
     },
     {
-      "Identity": "C:\\Users\\ndoum\\OneDrive\\Documents\\cldv6211-part-1-ST10281928-Ndivhuwo-Ndou\\ST10281928_NDIVHUWO NDOU_CLDV6211_EventEase\\obj\\Debug\\net9.0\\compressed\\xif2ps0ead-b9sayid5wm.gz",
+      "Identity": "C:\\Users\\ndoum\\OneDrive\\Documents\\cldv6211-part-1-ST10281928-Ndivhuwo-Ndou\\ST10281928_NDIVHUWO NDOU_CLDV6211_EventEase\\obj\\Debug\\net9.0\\compressed\\xif2ps0ead-093bc8yv0t.gz",
       "SourceId": "ST10281928_NDIVHUWO NDOU_CLDV6211_EventEase",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ndoum\\OneDrive\\Documents\\cldv6211-part-1-ST10281928-Ndivhuwo-Ndou\\ST10281928_NDIVHUWO NDOU_CLDV6211_EventEase\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ST10281928_NDIVHUWO NDOU_CLDV6211_EventEase",
-      "RelativePath": "css/site#[.{fingerprint=b9sayid5wm}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=093bc8yv0t}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1333,8 +1333,8 @@
       "RelatedAsset": "C:\\Users\\ndoum\\OneDrive\\Documents\\cldv6211-part-1-ST10281928-Ndivhuwo-Ndou\\ST10281928_NDIVHUWO NDOU_CLDV6211_EventEase\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "wf4wcyqcqt",
-      "Integrity": "fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=",
+      "Fingerprint": "4g43tv6nft",
+      "Integrity": "vI2H7gNLcHnZuHpf90uol82Vur820BjmvU7egteEFj4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\ndoum\\OneDrive\\Documents\\cldv6211-part-1-ST10281928-Ndivhuwo-Ndou\\ST10281928_NDIVHUWO NDOU_CLDV6211_EventEase\\wwwroot\\css\\site.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b9sayid5wm",
-      "Integrity": "j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=",
+      "Fingerprint": "093bc8yv0t",
+      "Integrity": "NHHu3e2HQQ0/+kZeUnvoLe05nzmkrlFtKFBvuO81+N4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2728,13 +2728,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.b9sayid5wm.css",
-      "AssetFile": "C:\\Users\\ndoum\\OneDrive\\Documents\\cldv6211-part-1-ST10281928-Ndivhuwo-Ndou\\ST10281928_NDIVHUWO NDOU_CLDV6211_EventEase\\obj\\Debug\\net9.0\\compressed\\xif2ps0ead-b9sayid5wm.gz",
+      "Route": "css/site.093bc8yv0t.css",
+      "AssetFile": "C:\\Users\\ndoum\\OneDrive\\Documents\\cldv6211-part-1-ST10281928-Ndivhuwo-Ndou\\ST10281928_NDIVHUWO NDOU_CLDV6211_EventEase\\obj\\Debug\\net9.0\\compressed\\xif2ps0ead-093bc8yv0t.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003125000000"
+          "Quality": "0.002994011976"
         }
       ],
       "ResponseHeaders": [
@@ -2744,15 +2744,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "333"
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"vI2H7gNLcHnZuHpf90uol82Vur820BjmvU7egteEFj4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 13:24:36 GMT"
+          "Value": "Wed, 02 Apr 2025 19:07:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2772,13 +2772,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"NHHu3e2HQQ0/+kZeUnvoLe05nzmkrlFtKFBvuO81+N4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "093bc8yv0t"
         },
         {
           "Name": "label",
@@ -2786,12 +2786,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-NHHu3e2HQQ0/+kZeUnvoLe05nzmkrlFtKFBvuO81+N4="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css",
+      "Route": "css/site.093bc8yv0t.css",
       "AssetFile": "C:\\Users\\ndoum\\OneDrive\\Documents\\cldv6211-part-1-ST10281928-Ndivhuwo-Ndou\\ST10281928_NDIVHUWO NDOU_CLDV6211_EventEase\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2801,7 +2801,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "695"
         },
         {
           "Name": "Content-Type",
@@ -2809,11 +2809,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"NHHu3e2HQQ0/+kZeUnvoLe05nzmkrlFtKFBvuO81+N4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 13:24:36 GMT"
+          "Value": "Wed, 02 Apr 2025 19:07:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2823,7 +2823,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "093bc8yv0t"
         },
         {
           "Name": "label",
@@ -2831,13 +2831,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-NHHu3e2HQQ0/+kZeUnvoLe05nzmkrlFtKFBvuO81+N4="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css.gz",
-      "AssetFile": "C:\\Users\\ndoum\\OneDrive\\Documents\\cldv6211-part-1-ST10281928-Ndivhuwo-Ndou\\ST10281928_NDIVHUWO NDOU_CLDV6211_EventEase\\obj\\Debug\\net9.0\\compressed\\xif2ps0ead-b9sayid5wm.gz",
+      "Route": "css/site.093bc8yv0t.css.gz",
+      "AssetFile": "C:\\Users\\ndoum\\OneDrive\\Documents\\cldv6211-part-1-ST10281928-Ndivhuwo-Ndou\\ST10281928_NDIVHUWO NDOU_CLDV6211_EventEase\\obj\\Debug\\net9.0\\compressed\\xif2ps0ead-093bc8yv0t.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2846,7 +2846,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "333"
         },
         {
           "Name": "Content-Type",
@@ -2854,11 +2854,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"vI2H7gNLcHnZuHpf90uol82Vur820BjmvU7egteEFj4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 13:24:36 GMT"
+          "Value": "Wed, 02 Apr 2025 19:07:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2876,7 +2876,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "093bc8yv0t"
         },
         {
           "Name": "label",
@@ -2884,18 +2884,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I="
+          "Value": "sha256-vI2H7gNLcHnZuHpf90uol82Vur820BjmvU7egteEFj4="
         }
       ]
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\ndoum\\OneDrive\\Documents\\cldv6211-part-1-ST10281928-Ndivhuwo-Ndou\\ST10281928_NDIVHUWO NDOU_CLDV6211_EventEase\\obj\\Debug\\net9.0\\compressed\\xif2ps0ead-b9sayid5wm.gz",
+      "AssetFile": "C:\\Users\\ndoum\\OneDrive\\Documents\\cldv6211-part-1-ST10281928-Ndivhuwo-Ndou\\ST10281928_NDIVHUWO NDOU_CLDV6211_EventEase\\obj\\Debug\\net9.0\\compressed\\xif2ps0ead-093bc8yv0t.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003125000000"
+          "Quality": "0.002994011976"
         }
       ],
       "ResponseHeaders": [
@@ -2905,15 +2905,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "333"
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"vI2H7gNLcHnZuHpf90uol82Vur820BjmvU7egteEFj4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 13:24:36 GMT"
+          "Value": "Wed, 02 Apr 2025 19:07:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2933,13 +2933,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"NHHu3e2HQQ0/+kZeUnvoLe05nzmkrlFtKFBvuO81+N4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-NHHu3e2HQQ0/+kZeUnvoLe05nzmkrlFtKFBvuO81+N4="
         }
       ]
     },
@@ -2954,7 +2954,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "695"
         },
         {
           "Name": "Content-Type",
@@ -2962,11 +2962,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"NHHu3e2HQQ0/+kZeUnvoLe05nzmkrlFtKFBvuO81+N4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 13:24:36 GMT"
+          "Value": "Wed, 02 Apr 2025 19:07:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2976,13 +2976,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-NHHu3e2HQQ0/+kZeUnvoLe05nzmkrlFtKFBvuO81+N4="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\ndoum\\OneDrive\\Documents\\cldv6211-part-1-ST10281928-Ndivhuwo-Ndou\\ST10281928_NDIVHUWO NDOU_CLDV6211_EventEase\\obj\\Debug\\net9.0\\compressed\\xif2ps0ead-b9sayid5wm.gz",
+      "AssetFile": "C:\\Users\\ndoum\\OneDrive\\Documents\\cldv6211-part-1-ST10281928-Ndivhuwo-Ndou\\ST10281928_NDIVHUWO NDOU_CLDV6211_EventEase\\obj\\Debug\\net9.0\\compressed\\xif2ps0ead-093bc8yv0t.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2991,7 +2991,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "333"
         },
         {
           "Name": "Content-Type",
@@ -2999,11 +2999,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"vI2H7gNLcHnZuHpf90uol82Vur820BjmvU7egteEFj4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 13:24:36 GMT"
+          "Value": "Wed, 02 Apr 2025 19:07:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3021,7 +3021,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I="
+          "Value": "sha256-vI2H7gNLcHnZuHpf90uol82Vur820BjmvU7egteEFj4="
         }
       ]
     },

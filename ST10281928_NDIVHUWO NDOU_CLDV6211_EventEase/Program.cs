@@ -14,7 +14,7 @@ namespace ST10281928_NDIVHUWO_NDOU_CLDV6211_EventEase
             builder.Services.AddControllersWithViews();
 
             builder.Services.AddDbContext<EventEaseDbContext>(options =>
-            options.UseSqlServer(builder.Configuration.GetConnectionString("AzureConn")));
+            options.UseSqlServer(builder.Configuration.GetConnectionString("LocalConn")));
 
             var app = builder.Build();
 

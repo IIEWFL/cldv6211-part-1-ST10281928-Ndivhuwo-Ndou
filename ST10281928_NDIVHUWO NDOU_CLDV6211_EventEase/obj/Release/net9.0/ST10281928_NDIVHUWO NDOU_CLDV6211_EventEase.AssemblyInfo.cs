@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ST10281928_NDIVHUWO NDOU_CLDV6211_EventEase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdcb576ac4c777263144bbdbf89a2ad05333342b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b08f85f0c4fa4b9eaba7df0468c8cd0034568cd3")]
 [assembly: System.Reflection.AssemblyProductAttribute("ST10281928_NDIVHUWO NDOU_CLDV6211_EventEase")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ST10281928_NDIVHUWO NDOU_CLDV6211_EventEase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

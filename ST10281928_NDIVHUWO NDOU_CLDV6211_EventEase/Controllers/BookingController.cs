@@ -49,8 +49,8 @@ namespace ST10281928_NDIVHUWO_NDOU_CLDV6211_EventEase.Controllers
         // GET: Booking/Create
         public IActionResult Create()
         {
-            ViewData["EventId"] = new SelectList(_context.Events, "EventId", "EventId");
-            ViewData["VenueId"] = new SelectList(_context.Venues, "VenueId", "VenueId");
+            ViewData["EventId"] = new SelectList(_context.Events, "EventId", "EventName");
+            ViewData["VenueId"] = new SelectList(_context.Venues, "VenueId", "VenueName");
             return View();
         }
 

@@ -257,7 +257,6 @@ C:\Users\ndoum\OneDrive\Documents\cldv6211-part-1-ST10281928-Ndivhuwo-Ndou\ST102
 C:\Users\ndoum\OneDrive\Documents\cldv6211-part-1-ST10281928-Ndivhuwo-Ndou\ST10281928_NDIVHUWO NDOU_CLDV6211_EventEase\obj\Release\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\ndoum\OneDrive\Documents\cldv6211-part-1-ST10281928-Ndivhuwo-Ndou\ST10281928_NDIVHUWO NDOU_CLDV6211_EventEase\obj\Release\net9.0\scopedcss\bundle\ST10281928_NDIVHUWO NDOU_CLDV6211_EventEase.styles.css
 C:\Users\ndoum\OneDrive\Documents\cldv6211-part-1-ST10281928-Ndivhuwo-Ndou\ST10281928_NDIVHUWO NDOU_CLDV6211_EventEase\obj\Release\net9.0\scopedcss\projectbundle\ST10281928_NDIVHUWO NDOU_CLDV6211_EventEase.bundle.scp.css
-C:\Users\ndoum\OneDrive\Documents\cldv6211-part-1-ST10281928-Ndivhuwo-Ndou\ST10281928_NDIVHUWO NDOU_CLDV6211_EventEase\obj\Release\net9.0\compressed\xif2ps0ead-b9sayid5wm.gz
 C:\Users\ndoum\OneDrive\Documents\cldv6211-part-1-ST10281928-Ndivhuwo-Ndou\ST10281928_NDIVHUWO NDOU_CLDV6211_EventEase\obj\Release\net9.0\compressed\h559ex2ixu-61n19gt1b8.gz
 C:\Users\ndoum\OneDrive\Documents\cldv6211-part-1-ST10281928-Ndivhuwo-Ndou\ST10281928_NDIVHUWO NDOU_CLDV6211_EventEase\obj\Release\net9.0\compressed\as8ubdaj1y-xtxxf3hu2r.gz
 C:\Users\ndoum\OneDrive\Documents\cldv6211-part-1-ST10281928-Ndivhuwo-Ndou\ST10281928_NDIVHUWO NDOU_CLDV6211_EventEase\obj\Release\net9.0\compressed\s975j6ogw6-bqjiyaj88i.gz
@@ -337,3 +336,4 @@ C:\Users\ndoum\OneDrive\Documents\cldv6211-part-1-ST10281928-Ndivhuwo-Ndou\ST102
 C:\Users\ndoum\OneDrive\Documents\cldv6211-part-1-ST10281928-Ndivhuwo-Ndou\ST10281928_NDIVHUWO NDOU_CLDV6211_EventEase\obj\Release\net9.0\ST10281928_NDIVHUWO NDOU_CLDV6211_EventEase.pdb
 C:\Users\ndoum\OneDrive\Documents\cldv6211-part-1-ST10281928-Ndivhuwo-Ndou\ST10281928_NDIVHUWO NDOU_CLDV6211_EventEase\obj\Release\net9.0\ST10281928_NDIVHUWO NDOU_CLDV6211_EventEase.genruntimeconfig.cache
 C:\Users\ndoum\OneDrive\Documents\cldv6211-part-1-ST10281928-Ndivhuwo-Ndou\ST10281928_NDIVHUWO NDOU_CLDV6211_EventEase\obj\Release\net9.0\ref\ST10281928_NDIVHUWO NDOU_CLDV6211_EventEase.dll
+C:\Users\ndoum\OneDrive\Documents\cldv6211-part-1-ST10281928-Ndivhuwo-Ndou\ST10281928_NDIVHUWO NDOU_CLDV6211_EventEase\obj\Release\net9.0\compressed\xif2ps0ead-093bc8yv0t.gz
