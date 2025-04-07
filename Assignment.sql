@@ -29,4 +29,12 @@ BookingDate DATE NOT NULL,
 INSERT INTO Venue (VenueName,VenueLocation,VenueCapacity,ImageURL)
 VALUES ('Dullstroom','Mpumalanga',30,'https://url')
 
-SELECT * FROM Venue 
+INSERT INTO [Event] (EventName,EventDate,EventDescription)
+VALUES ('Wedding','2025-03-11','Celebrate a union')
+
+INSERT INTO Booking(VenueID,EventID,BookingDate)
+VALUES (1,1,'2025-03-11')
+
+SELECT * FROM Venue
+SELECT * FROM [Event]
+SELECT * FROM Booking
