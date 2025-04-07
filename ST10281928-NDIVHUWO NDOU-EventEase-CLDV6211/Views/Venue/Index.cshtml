@@ -40,6 +40,13 @@
                 @Html.DisplayFor(modelItem => item.VenueCapacity)
             </td>
             <td>
+               @{//Code Attribution
+                //This method was taken from stackoverflow
+                //https://stackoverflow.com/questions/32108081/image-not-getting-displayed-in-asp-net-mvc
+                //Tchaps & Rahul Soni
+                //https://stackoverflow.com/users/2473167/tchaps
+                //https://stackoverflow.com/users/6325563/rahul-soni
+                }
                 <img src="@Html.DisplayFor(modelItem => item.ImageUrl)" alt="Venue Image URL" />
             </td>
             <td>
